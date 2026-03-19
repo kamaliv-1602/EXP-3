@@ -38,12 +38,13 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
-
+![image](https://github.com/kamaliv-1602/EXP-3/blob/main/WhatsApp%20Image%202026-03-19%20at%2020.27.46.jpeg?raw=true)
 Direct connection: CIRCUIT DIAGRAM: 
+![image](https://github.com/kamaliv-1602/EXP-3/blob/main/WhatsApp%20Image%202026-03-19%20at%2020.29.02.jpeg?raw=true)
 Tabulation:1
-	
+	![image](https://github.com/kamaliv-1602/EXP-3/blob/main/WhatsApp%20Image%202026-03-19%20at%2020.27.46%20(1).jpeg?raw=true)
 Cross connection: CIRCUIT DIAGRAM:
-
+![image](https://github.com/kamaliv-1602/EXP-3/blob/main/WhatsApp%20Image%202026-03-19%20at%2020.29.17.jpeg?raw=true)
 Tabulation:2
 
 RESULT:
